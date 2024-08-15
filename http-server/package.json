@@ -1,0 +1,22 @@
+{
+  "name": "wd201",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jkdevlopments/wd201.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "jkdevelopments",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jkdevlopments/wd201/issues"
+  },
+  "homepage": "https://github.com/Jkdevlopments/wd201#readme",
+  "description": ""
+}
